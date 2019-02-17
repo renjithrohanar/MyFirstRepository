@@ -8,6 +8,7 @@ public class MavenTest {
 	public void mavenTest () {
 
 		System.out.println("Hello Maven World");
+		System.out.println("This is after the GIT commit has been made");
 		
 	}
 
