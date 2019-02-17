@@ -10,6 +10,8 @@ public class MavenTest {
 		System.out.println("Hello Maven World");
 		System.out.println("This is after the GIT commit has been made");
 		System.out.println("This is the code after the second commit has been made");
+		//This is after the child is created
+		System.out.println("This is after the child is created");
 		
 	}
 
